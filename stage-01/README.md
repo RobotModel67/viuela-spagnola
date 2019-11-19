@@ -1,7 +1,14 @@
-# stage-01
+# Viuela Spagnola
+## stage-01
+
+Book 1: Pro Vuejs (Apress)
 
 ## Project setup
+Require NODE  
 ```
+npm i -g @vue/cli
+vue create my-project-name
+cd my-project-name
 npm install
 ```
 
